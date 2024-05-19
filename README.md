@@ -4,3 +4,5 @@ DubsTech Datathon 2024 Submission by Diya Kamboj and Tejasri Addanki
 The ranking metric workbook features the ranking metric.
 
 The exploratory data analysis tableau file contains several data visualizations.
+
+The written report is a pdf of our analysis.
